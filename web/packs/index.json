@@ -1,6 +1,8 @@
 {
   "packs": [
-    "Menhera-chan.3_JP.json"
+    "Menhera-chan.3_JP.json",
+    "Menhera_chan.json",
+    "Menhera-chan_Mega_Mix.json"
   ],
   "homeserver_url": "https://matrix.sol.mn"
 }

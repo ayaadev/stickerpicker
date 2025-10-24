@@ -2,7 +2,9 @@
   "packs": [
     "Menhera-chan.3_JP.json",
     "Menhera_chan.json",
-    "Menhera-chan_Mega_Mix.json"
+    "Menhera-chan_Mega_Mix.json",
+    "Spongebob.json",
+    "Pokemon.json"
   ],
   "homeserver_url": "https://matrix.sol.mn"
 }
